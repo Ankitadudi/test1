@@ -1,0 +1,27 @@
+.body {
+    background-image: url("https://images.pexels.com/photos/461077/pexels-photo-461077.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200");
+
+    height: 400px;
+    
+}
+
+.body__headline {
+    display: flex;
+    align-items: center;
+    margin-left: 25%;
+}
+
+.body__headline > h1 {
+    font-weight: lighter;
+    
+    
+}
+.body__headline > h2 {
+    font-size: xx-large;
+    margin: 10px;
+}
+
+.body > Button  {
+   background-color: red;
+   border-color: rgb(red, green, blue);
+}

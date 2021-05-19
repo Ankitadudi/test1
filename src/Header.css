@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.header__left {
+    display: flex;
+    align-items: center;
+}
+
+.header__left > p {
+    margin: 15px;
+    font: small;
+}
+
+.header__left > h1 {
+    color: red;
+    margin-bottom: 25px;
+}
+
+.header__right {
+    display: flex;
+    align-items: center;
+    font-size: small;
+}
+.header__right > Button {
+    color: gray;
+    border: 1px solid black;
+    margin-right: 10px;
+    
+}
+
+
+     
+
+
